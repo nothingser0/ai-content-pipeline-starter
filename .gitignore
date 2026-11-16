@@ -1,0 +1,53 @@
+# Environment & Credentials
+.env
+.env.*
+!.env.example
+env
+accounts/*/buffer.json
+
+# Runtime Data, State & Logs
+data/*.json
+output/
+logs/
+*.log
+
+# Virtual Environments
+venv/
+venv_real/
+.venv/
+env/
+
+# Python Artifacts & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dylib
+.Python
+dist/
+build/
+*.egg
+*.egg-info/
+
+# OpenCode / Sisyphus / IDEs
+.sisyphus/
+.opencode/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup & Temp Files
+*.bak
+*.old
+*.orig
+*.tmp
+*.temp
+*_backup.*
+*_old.*
+*_before_*.*
+visual_visual_*.txt

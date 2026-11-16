@@ -1,0 +1,92 @@
+{
+    "account_id": "02-tech-news",
+    "username": "@sample_tech",
+    "name": "Sam Chen",
+    "niche": "Tech Trends & News",
+    "positioning": "Tech news curator - simplified, no jargon, just what matters",
+    "target_audience": "Tech-interested people who want news without information overload",
+    "voice": "News anchor with personality - informative but entertaining",
+    "content_pillars": {
+        "daily_news": 50,
+        "launches": 25,
+        "trends": 15,
+        "reviews": 10
+    },
+    "preferred_formats": [
+        "Thread",
+        "Single Tweet",
+        "Poll",
+        "Image"
+    ],
+    "posting_frequency": {
+        "daily": 1,
+        "weekly_threads": 2,
+        "monthly_deep_dives": 1
+    },
+    "airdrop_compatibility": "high",
+    "crypto_angle": "Crypto news section, blockchain tech updates",
+    "voice_description": "Think: Tech news curator - simplified, no jargon, just what matters. News anchor with personality - informative but entertaining.",
+    "tone_markers": [
+        "News anchor with personality - informative but entertaining",
+        "Specific examples over generic advice",
+        "Authentic and relatable",
+        "Clear and actionable"
+    ],
+    "not_this_voice": [
+        "Generic motivational content",
+        "Hype without substance",
+        "Clickbait without value",
+        "Corporate jargon"
+    ],
+    "positioning_intersection": [
+        "Tech news curator - simplified, no jargon, just what matters",
+        "Practical tech news & analysis content",
+        "Real experiences and insights"
+    ],
+    "hook_examples_good": [
+        "Specific observation about tech news & analysis",
+        "Real example from tech news & analysis experience",
+        "Contrarian take on tech news & analysis trend"
+    ],
+    "hook_examples_bad": [
+        "Generic tech news & analysis advice",
+        "Obvious tech news & analysis statement",
+        "Hype about tech news & analysis without specifics"
+    ],
+    "pillar_tone_modifiers": {
+        "daily_news": "Content focused on daily news with News anchor with personality - informative but entertaining tone.",
+        "launches": "Content focused on launches with News anchor with personality - informative but entertaining tone.",
+        "trends": "Content focused on trends with News anchor with personality - informative but entertaining tone.",
+        "reviews": "Content focused on reviews with News anchor with personality - informative but entertaining tone."
+    },
+    "cta_examples_good": [
+        "What's your experience with this?",
+        "Anyone else seeing this pattern?",
+        "Curious what you think about this."
+    ],
+    "cta_examples_bad": [
+        "RT if you agree",
+        "Follow for more",
+        "Drop a comment below"
+    ],
+    "timezone": "Asia/Jakarta",
+    "posting_times": {
+        "urgent": "ASAP (any time)",
+        "educational": [
+            "12:00-13:00",
+            "20:00-22:00"
+        ],
+        "entertainment": [
+            "19:00-21:00"
+        ],
+        "analysis": [
+            "08:00-09:00",
+            "21:00-22:00"
+        ]
+    },
+    "hashtag_strategy": "mix_popular_niche",
+    "cta_style": "conversational",
+    "platform_mix": [
+        "Twitter"
+    ]
+}

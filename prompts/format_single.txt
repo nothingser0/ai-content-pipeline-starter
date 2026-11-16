@@ -1,0 +1,7 @@
+
+SPECIAL INSTRUCTION:
+Generate visual brief for a SINGLE image.
+
+Output format:
+**VISUAL BRIEF**
+[full brief with GENERATION PROMPT]

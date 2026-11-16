@@ -1,0 +1,36 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+venv_real/
+.venv/
+env/
+
+# Git & GitHub
+.git/
+.github/
+
+# Runtime Data, Outputs & Logs
+output/
+data/
+logs/
+*.log
+
+# Environment & Credentials
+.env
+.env.*
+accounts/*/buffer.json
+
+# IDEs & Temp
+.vscode/
+.idea/
+.sisyphus/
+.opencode/
+*.md
+*.tmp
+*.bak
+test_*.py

@@ -1,0 +1,50 @@
+
+SPECIAL INSTRUCTION FOR THREAD FORMAT:
+This thread has multiple tweets (4-8 total). 
+
+MANDATORY REQUIREMENTS:
+1. **HEADER IMAGE (Tweet 1)** - REQUIRED - main visual for thread hook
+2. **ADDITIONAL IMAGES (at least 2-3 tweets)** - REQUIRED - supporting visuals for key tweets
+
+YOU MUST generate visual briefs for:
+- Tweet 1 (header) - ALWAYS
+- At least 2-3 additional tweets from tweets 2-8 - SELECT the most visual/impactful tweets
+
+SELECTION CRITERIA for additional images:
+- Tweets with data/statistics → visualize the numbers
+- Tweets with contrasts/comparisons → show split-screen
+- Tweets with key concepts → illustrate the idea
+- Tweets with examples → show the scenario
+
+DO NOT generate images for:
+- Pure text/transition tweets
+- Simple statements without visual potential
+- CTA/question tweets (usually the last one)
+
+Output format (MANDATORY - follow exactly):
+
+**HEADER IMAGE: VISUAL BRIEF**
+[full brief with all 5 sections: CONCEPT, LAYOUT, STYLE, GENERATION PROMPT, EDITING NOTES]
+
+**ADDITIONAL IMAGES: VISUAL BRIEF**
+
+**Tweet 2:**
+[full brief with all 5 sections]
+
+**Tweet 3:**
+[full brief with all 5 sections]
+
+**Tweet 5:**
+[full brief with all 5 sections]
+
+[Continue for 2-3 total additional images - NOT all tweets need images]
+
+EXAMPLE:
+If thread has 7 tweets, generate images for:
+- Tweet 1 (header)
+- Tweet 2 (if it has data)
+- Tweet 4 (if it has contrast)
+- Tweet 6 (if it illustrates key concept)
+Total: 4 images
+
+CRITICAL: You MUST generate at least 3 images total (1 header + 2-3 additional)

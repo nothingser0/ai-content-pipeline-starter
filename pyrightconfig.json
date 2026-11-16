@@ -1,0 +1,13 @@
+{
+  "include": [
+    "src",
+    "run.py",
+    "scheduler_daemon.py"
+  ],
+  "extraPaths": [
+    "src"
+  ],
+  "typeCheckingMode": "basic",
+  "reportImplicitRelativeImport": "none",
+  "reportMissingTypeArgument": "none"
+}

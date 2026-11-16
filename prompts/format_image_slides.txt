@@ -1,0 +1,13 @@
+
+SPECIAL INSTRUCTION FOR IMAGE FORMAT:
+This content has multiple slides (1-4). Generate separate visual brief for EACH slide.
+Each slide needs its own GENERATION PROMPT.
+
+Output format:
+**Slide 1: VISUAL BRIEF**
+[full brief with GENERATION PROMPT]
+
+**Slide 2: VISUAL BRIEF**
+[full brief with GENERATION PROMPT]
+
+etc.

@@ -1,0 +1,92 @@
+{
+    "account_id": "03-personal-finance",
+    "username": "@sample_finance",
+    "name": "Morgan Taylor",
+    "niche": "Personal Finance & Investing",
+    "positioning": "Finance educator making money management simple and actionable",
+    "target_audience": "Young professionals wanting financial independence",
+    "voice": "Financial advisor friend - practical, no judgment, actionable",
+    "content_pillars": {
+        "budgeting": 35,
+        "investing": 30,
+        "saving": 20,
+        "mindset": 15
+    },
+    "preferred_formats": [
+        "Thread",
+        "Single Tweet",
+        "Poll",
+        "Image"
+    ],
+    "posting_frequency": {
+        "daily": 1,
+        "weekly_threads": 2,
+        "monthly_deep_dives": 1
+    },
+    "airdrop_compatibility": "high",
+    "crypto_angle": "Crypto as investment diversification, DeFi yields",
+    "voice_description": "Think: Finance educator making money management simple and actionable. Financial advisor friend - practical, no judgment, actionable.",
+    "tone_markers": [
+        "Financial advisor friend - practical, no judgment, actionable",
+        "Specific examples over generic advice",
+        "Authentic and relatable",
+        "Clear and actionable"
+    ],
+    "not_this_voice": [
+        "Generic motivational content",
+        "Hype without substance",
+        "Clickbait without value",
+        "Corporate jargon"
+    ],
+    "positioning_intersection": [
+        "Finance educator making money management simple and actionable",
+        "Practical personal finance content",
+        "Real experiences and insights"
+    ],
+    "hook_examples_good": [
+        "Specific observation about personal finance",
+        "Real example from personal finance experience",
+        "Contrarian take on personal finance trend"
+    ],
+    "hook_examples_bad": [
+        "Generic personal finance advice",
+        "Obvious personal finance statement",
+        "Hype about personal finance without specifics"
+    ],
+    "pillar_tone_modifiers": {
+        "budgeting": "Content focused on budgeting with Financial advisor friend - practical, no judgment, actionable tone.",
+        "investing": "Content focused on investing with Financial advisor friend - practical, no judgment, actionable tone.",
+        "saving": "Content focused on saving with Financial advisor friend - practical, no judgment, actionable tone.",
+        "mindset": "Content focused on mindset with Financial advisor friend - practical, no judgment, actionable tone."
+    },
+    "cta_examples_good": [
+        "What's your experience with this?",
+        "Anyone else seeing this pattern?",
+        "Curious what you think about this."
+    ],
+    "cta_examples_bad": [
+        "RT if you agree",
+        "Follow for more",
+        "Drop a comment below"
+    ],
+    "timezone": "Asia/Jakarta",
+    "posting_times": {
+        "urgent": "ASAP (any time)",
+        "educational": [
+            "12:00-13:00",
+            "20:00-22:00"
+        ],
+        "entertainment": [
+            "19:00-21:00"
+        ],
+        "analysis": [
+            "08:00-09:00",
+            "21:00-22:00"
+        ]
+    },
+    "hashtag_strategy": "mix_popular_niche",
+    "cta_style": "conversational",
+    "platform_mix": [
+        "Twitter"
+    ]
+}

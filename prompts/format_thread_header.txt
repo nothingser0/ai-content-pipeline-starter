@@ -1,0 +1,8 @@
+
+SPECIAL INSTRUCTION FOR THREAD FORMAT:
+Generate visual brief for HEADER IMAGE (Tweet 1) only.
+This is the main visual that appears at the top of the thread.
+
+Output format:
+**HEADER IMAGE: VISUAL BRIEF**
+[full brief with GENERATION PROMPT]

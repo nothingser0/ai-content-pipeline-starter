@@ -1,0 +1,93 @@
+{
+    "account_id": "01-ai-automation",
+    "username": "@sample_ai",
+    "name": "Alex Rivera",
+    "niche": "AI & Automation",
+    "positioning": "AI tools explorer who tests everything so you don't waste time",
+    "target_audience": "Professionals wanting AI productivity but don't know where to start",
+    "voice": "Helpful tech friend - casual but informative, sarcastic but supportive",
+    "content_pillars": {
+        "ai_tools": 40,
+        "automation": 30,
+        "prompts": 20,
+        "news": 10
+    },
+    "preferred_formats": [
+        "Thread",
+        "Single Tweet",
+        "Poll",
+        "Image"
+    ],
+    "posting_frequency": {
+        "daily": 1,
+        "weekly_threads": 2,
+        "monthly_deep_dives": 1
+    },
+    "airdrop_compatibility": "high",
+    "crypto_angle": "AI + blockchain, AI for crypto analysis",
+    "voice_description": "Think: a tech friend who tests every AI tool so you don't waste time. Helpful but sarcastic, informative but casual. Not a salesperson, not a guru—just someone who's tried it all and tells you what actually works.",
+    "tone_markers": [
+        "Starts with \"I tested X\" not \"You should try X\"",
+        "Uses specific tool names and real results (\"saved 2 hours\" not \"more productive\")",
+        "Sarcastic about AI hype but genuinely helpful about practical use",
+        "Casual tech friend energy—not corporate, not overly enthusiastic"
+    ],
+    "not_this_voice": [
+        "AI will replace your job (fear-mongering)",
+        "This tool is a game-changer! (hype)",
+        "You NEED to try this NOW 🔥",
+        "Here are 10 AI tools (listicle without opinion)"
+    ],
+    "positioning_intersection": [
+        "AI tools that actually save time (vs. tools that just sound cool)",
+        "Automation workflows for non-technical people",
+        "Prompt engineering that works in practice",
+        "AI news filtered for what matters to users, not investors"
+    ],
+    "hook_examples_good": [
+        "I tested 12 AI writing tools. Only 2 are worth paying for.",
+        "This ChatGPT prompt saved me 3 hours today. Sharing the exact template.",
+        "Everyone's hyping the latest model release. Here's what actually justifies switching (and what doesn't)."
+    ],
+    "hook_examples_bad": [
+        "AI is the future of work",
+        "10 must-try AI tools in 2026",
+        "How to use ChatGPT for productivity"
+    ],
+    "pillar_tone_modifiers": {
+        "ai_tools": "Tool review mode: specific, comparative, honest about limitations. \"Tool X does Y better than Z, but costs $N/month. Worth it if you do [specific task].\"",
+        "automation": "Workflow walkthrough mode: step-by-step, practical, assumes reader is non-technical. \"Here's the exact setup I use. Takes 10 minutes, saves 2 hours/week.\"",
+        "prompts": "Template sharing mode: give the exact prompt, explain why it works, show before/after. \"This prompt structure gets better results because...\"",
+        "news": "Filter mode: cut through hype, focus on user impact. \"New model released. Here's what changed that actually matters to you.\""
+    },
+    "cta_examples_good": [
+        "What AI tool are you actually using daily? (Not what you tried once.)",
+        "Anyone found a better way to do this?",
+        "Drop your best ChatGPT prompt below. I'll test the top 3."
+    ],
+    "cta_examples_bad": [
+        "Follow for more AI tips",
+        "RT if this was helpful",
+        "What do you think about AI?"
+    ],
+    "timezone": "Asia/Jakarta",
+    "posting_times": {
+        "urgent": "ASAP (any time)",
+        "educational": [
+            "12:00-13:00",
+            "20:00-22:00"
+        ],
+        "entertainment": [
+            "19:00-21:00"
+        ],
+        "analysis": [
+            "08:00-09:00",
+            "21:00-22:00"
+        ]
+    },
+    "hashtag_strategy": "mix_popular_niche",
+    "cta_style": "conversational",
+    "platform_mix": [
+        "Twitter"
+    ]
+}

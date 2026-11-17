@@ -33,7 +33,7 @@ except Exception:
 # Default trigger time: "03:00" (HH:MM WIB) - configurable via CRON_SCHEDULE in .env
 SCHEDULE_TIME = os.getenv("CRON_SCHEDULE", "03:00").strip()
 RUN_ON_STARTUP = os.getenv("RUN_ON_STARTUP", "false").strip().lower() in ("1", "true", "yes")
-MAX_DAILY_ACCOUNTS = int(os.getenv("CRON_MAX_ACCOUNTS", "21"))
+MAX_DAILY_ACCOUNTS = int(os.getenv("CRON_MAX_ACCOUNTS", "3"))
 
 
 async def main() -> None:

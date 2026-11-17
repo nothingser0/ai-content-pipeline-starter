@@ -2,7 +2,7 @@ name: ai-content-pipeline-starter
 
 services:
   content-pipeline:
-    image: ${DOCKER_IMAGE:-ai-content-pipeline-starter:latest}
+    image: ghcr.io/nothingser0/ai-content-pipeline-starter:latest
     build:
       context: .
       dockerfile: Dockerfile

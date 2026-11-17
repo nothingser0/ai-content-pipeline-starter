@@ -560,7 +560,7 @@ async def run_weekly_batch(account_ids: list[str] | None = None, dry_run: bool =
 
 
 async def run_cron_daily(
-    max_accounts: int = 21,
+    max_accounts: int = 3,
     account_ids: list[str] | None = None,
     dry_run: bool = False,
     force: bool = False,
@@ -662,7 +662,7 @@ async def run_cron_daily(
 async def main() -> None:
     """CLI entrypoint"""
     load_api_config()
-    default_cron_max = int(os.getenv("CRON_MAX_ACCOUNTS", "21"))
+    default_cron_max = int(os.getenv("CRON_MAX_ACCOUNTS", "3"))
 
     parser = argparse.ArgumentParser(description="21 Accounts Content Pipeline")
     parser.add_argument("--list", action="store_true", help="List all accounts")

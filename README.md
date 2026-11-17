@@ -99,9 +99,15 @@ ai-content-pipeline-starter/
    cp .env.example .env
    ```
 3. Start the container in background:
-   ```bash
-   docker compose up -d --build
-   ```
+   - **Method A: Pull prebuilt image from GHCR (Fastest)**
+     ```bash
+     docker compose pull
+     docker compose up -d
+     ```
+   - **Method B: Build from local source**
+     ```bash
+     docker compose up -d --build
+     ```
 4. View live logs:
    ```bash
    docker compose logs -f
